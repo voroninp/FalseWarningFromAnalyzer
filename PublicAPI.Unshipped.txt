@@ -1,0 +1,3 @@
+﻿#nullable enable
+FalseWarningFromAnalyzer.LoggerExtensions
+static FalseWarningFromAnalyzer.LoggerExtensions.WarnCustomSqlIsUsed(this Microsoft.Extensions.Logging.ILogger! logger, string! explanation, string? method = null) -> void
